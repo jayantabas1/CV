@@ -1,0 +1,137 @@
+body {
+    background-color: rgb(141, 209, 236);
+    margin: 0%;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    margin: 8% auto 0 auto;
+    font-size: 4vw;
+    color: #214f7a;
+    font-weight: 900;
+}
+
+h2 {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color: rgb(51, 53, 54);
+    font-size: 3vw;
+}
+
+p {
+    font-family: 'Dancing-Script', cursive;
+    margin-top: 0%;
+    color: #214f7a;
+    font-weight: 800;
+    font-size: 1vw;
+}
+
+
+h3 {
+    font-family: 'Dancing-Script', cursive;
+    margin-top: 0%;
+    color: #272736;
+    font-weight: 800;
+    font-size: 1vw;
+
+}
+
+.top-container {
+    font-size: 1em;
+    position: relative;
+    background-image: url('images/mountain.jpg');
+    background-color: rgb(194, 227, 240);
+    padding: 5%
+}
+
+.middle-container {
+    background-color: rgb(122, 194, 241);
+    padding: 2%;
+}
+
+.bottom-container {
+    background-color: rgb(174, 243, 228);
+    padding: 2%;
+}
+
+
+.mid-pic {
+    position: absolute;
+    left: 5%;
+    top: 40%;
+}
+
+.bot-pic {
+    position: absolute;
+    right: 5%;
+    top: 40%;
+}
+
+.b1 {
+    padding: 1% 1% 1% 1%;
+}
+
+.b2 {
+    padding: 1% 1% 1% 1%;
+}
+
+.b3 {
+    padding: 1% 1% 1% 1%;
+}
+
+
+.skill-row {
+    width: 50%;
+    margin: 3% auto 3% auto;
+    text-align: left;
+}
+
+.skill1 {
+    float: left;
+    padding-right: 2%;
+}
+
+.skill2 {
+    float: left;
+    padding-right: 2%;
+}
+
+.skill3 {
+    float: left;
+    padding-right: 2%;
+}
+
+.skill4 {
+    float: left;
+    padding-right: 2%;
+}
+
+.skill5 {
+    float: left;
+    padding-right: 2%;
+}
+
+.skill6 {
+    float: left;
+    padding-right: 2%;
+}
+
+.btn:link,
+.btn:visited {
+    background-color: #a07fec;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn:hover,
+.btn:active {
+    background-color: red;
+}
+
+.row {
+    padding: 1%;
+}
